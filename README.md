@@ -1,1 +1,1 @@
-A python program to generate and style qr codes and also include your own logo
+This project provides a Python program to generate and style QR codes, including the ability to embed a custom logo in the center of the QR code. The QR codes can be customized with different colors and background colors.
